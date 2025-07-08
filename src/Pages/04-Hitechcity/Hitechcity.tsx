@@ -46,8 +46,9 @@ const Hitechcity: React.FC = () => {
                   behavior: "smooth",
                 });
               }}
-            > Land for Sale
-             
+            >
+              {" "}
+              Land for Rent
             </span>{" "}
             -{" "}
             <span
@@ -58,8 +59,8 @@ const Hitechcity: React.FC = () => {
                   behavior: "smooth",
                 });
               }}
-            >Invest in Growth
-             
+            >
+              Invest in Growth
             </span>
           </div>
         </div>
@@ -119,14 +120,14 @@ const Hitechcity: React.FC = () => {
               style={{ fontFamily: "Poppins" }}
               className="relative w-[90%] flex flex-col justify-center items-center text-center text-4xl px-4 text-[#fff]"
             >
-              Land for Sale – Invest in Growth
+              Land for Rent – Invest in Growth
             </div>
             <div
               style={{ fontFamily: "Poppins" }}
               className="relative w-[90%] mt-[10px] flex flex-col justify-center items-center text-center text-[1rem] px-4 text-[#fff]"
             >
               Choose from a wide range of commercial and multi-use land parcels
-              for sale. Whether you're planning to build showrooms, warehouses,
+              for rent. Whether you're planning to build showrooms, warehouses,
               hospitality projects, or residential towers - the location,
               visibility, and infrastructure make this a high-return investment
               opportunity.

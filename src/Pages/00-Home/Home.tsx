@@ -171,7 +171,9 @@ const Home: React.FC<HomeProps> = () => {
                   : "opacity-0 translate-y-6"
               }`}
             >
-              Kandaswarnaa Fabrics
+              Kandaswarnaa
+              <br />
+              Fabrics
             </div>
             <div
               style={{ fontFamily: "Poppins", transitionDelay: "600ms" }}

@@ -18,13 +18,13 @@ const About: React.FC = () => {
         description:
           "Expanded across Tamil Nadu, diversifying into a wide range of traditional textiles and building strong retailer partnerships.",
       },
+      // {
+      //   year: "2000 – Global Expansion",
+      //   description:
+      //     "Entered international markets by exporting party wear, sarees, men’s and kids’ fashion, establishing a global presence.",
+      // },
       {
-        year: "2000 – Global Expansion",
-        description:
-          "Entered international markets by exporting party wear, sarees, men’s and kids’ fashion, establishing a global presence.",
-      },
-      {
-        year: "2020 – Kandaswarnaa Mall Launch",
+        year: "2000 – Kandaswarnaa Shoping Mall Inauguration",
         description:
           "Opened Salem’s premium shopping mall, offering high-quality mall space for rent to retailers and brands.",
       },
@@ -32,6 +32,11 @@ const About: React.FC = () => {
         year: "2023 – Digital & Global Reach",
         description:
           "Expanded online shopping and strengthened export operations to reach customers worldwide while maintaining our heritage.",
+      },
+      {
+        year: "2025 – Kandaswarnaa Hi Tech City Inauguration",
+        description:
+          "Opened Salem’s premium shopping mall, offering high-quality mall space for rent to retailers and brands.",
       },
     ],
   };
