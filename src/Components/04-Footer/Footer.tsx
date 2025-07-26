@@ -83,7 +83,7 @@ const Footer: React.FC<FooterProps> = () => {
                 <MapPin className="w-[30px] h-[30px] text-white" />
               </div>
               <a
-                href="https://www.google.com/maps/place/Kandaswarna+fabrics/@11.6724637,78.1513611,17z/data=!3m1!4b1!4m6!3m5!1s0x3babf04c23afafbd:0x86851f2094562589!8m2!3d11.6724637!4d78.1513611!16s%2Fg%2F1hm3bjkw1?entry=ttu&g_ep=EgoyMDI1MDYxMS4wIKXMDSoASAFQAw%3D%3D"
+                href="https://www.google.com/maps/place/Kandaswarnaa+Fabrics/@11.6725952,78.1515202,17z/data=!3m1!4b1!4m6!3m5!1s0xefc971a92ed5743:0xa8bb9aeeb01f54fb!8m2!3d11.6725952!4d78.1515202!16s%2Fg%2F11xm6tsr8f?hl=en-GB&entry=ttu&g_ep=EgoyMDI1MDcyMy4wIKXMDSoASAFQAw%3D%3D"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex flex-col justify-center max-w-[300px] no-underline"
